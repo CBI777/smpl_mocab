@@ -7,7 +7,7 @@ SMPL_Mocab
 </h5>
 
 -------
-![demo_smpl.gif](README_Img%demo_smpl.gif)
+![](README_Img%demo_smpl.gif)
 -------
 SMPL_Mocap provides real-time 3d motion capture in Python from Ubuntu environment.
 We combined real-time pose estimation model of FrankMocab with pose / shape estimation model of HuManiFlow to make real-time pose and shape estimation for video input provided via webcam of the computer.
