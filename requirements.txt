@@ -1,0 +1,39 @@
+# from humaniflow
+opencv-python
+tqdm
+matplotlib
+dataclasses
+pyyaml
+yacs
+fvcore==0.1.2.post20201213
+scikit-image==0.17.2
+scipy==1.5.4
+smplx==0.1.26
+pyro-ppl==1.7.0
+
+# from frankmocap
+pip
+gdown
+# opencv-python
+PyOpenGL 
+PyOpenGL_accelerate
+pycocotools
+pafy
+youtube-dl
+# scipy
+pillow>=7.1.0
+easydict
+cython
+cffi
+msgpack
+# pyyaml
+tensorboardX
+# tqdm
+jinja2
+# smplx
+# sklearn
+scikit-learn # for installation problem
+opendr
+chumpy
+
+numpy==1.23 # downgrade numpy
