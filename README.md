@@ -37,7 +37,7 @@ Tested ubuntu version : 22.04
 
 ### Clone this repository
 ```angular2html
-git clone https://github.com/medialab-ku/smpl_mocab.git
+git clone https://github.com/CBI777/smpl_mocab.git
 cd smpl_mocap
 ```
 
